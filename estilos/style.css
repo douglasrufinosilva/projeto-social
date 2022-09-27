@@ -27,6 +27,8 @@ body, html {
 
     section#menu {
         text-align: right;
+        text-decoration: double;
+
     }
 
     section iframe {
