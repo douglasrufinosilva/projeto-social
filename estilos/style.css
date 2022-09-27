@@ -29,6 +29,10 @@ body, html {
         text-align: right;
     }
 
+    section iframe {
+      width: 100vw;
+    }
+
   #telefone {
     position: absolute;
     top: 50%;
@@ -49,6 +53,7 @@ body, html {
     border: 0px;
   }
 
+  
   #menu img{
     width: 50px;
     margin: 10px;
